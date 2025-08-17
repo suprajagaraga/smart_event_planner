@@ -1,0 +1,83 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Angular Workshop",
+      "date": "2025-08-20",
+      "maxAttendees": 100
+    },
+    {
+      "id": "2",
+      "title": "Cloud Summit",
+      "date": "2025-09-01",
+      "maxAttendees": 200
+    },
+    {
+      "id": "137e",
+      "title": "New event",
+      "date": "2025-09-01",
+      "maxAttendees": 50
+    },
+    {
+      "id": "9b20",
+      "title": "New event 2",
+      "date": "2025-10-10",
+      "maxAttendees": 100
+    },
+    {
+      "id": "c470",
+      "title": "Aruna",
+      "date": "2025-08-26",
+      "maxAttendees": 97
+    },
+    {
+      "id": "2611",
+      "title": "Tanmai",
+      "date": "2025-02-22",
+      "maxAttendees": 99
+    },
+    {
+      "id": "44bf",
+      "title": "supraja",
+      "date": "2004-07-10",
+      "maxAttendees": 80
+    }
+  ],
+  "attendees": [
+    {
+      "id": "1",
+      "name": "Ankit",
+      "email": "ankit@example.com"
+    },
+    {
+      "id": "3e36",
+      "name": "Demo",
+      "email": "demo@gmail.com",
+      "eventId": "1"
+    },
+    {
+      "id": "b91a",
+      "name": "Ankit",
+      "email": "ankit12345@gmail.com",
+      "eventId": "1"
+    },
+    {
+      "id": "7296",
+      "name": "Chakali Aruna",
+      "email": "drlngaruna@gmail.com",
+      "eventId": "2"
+    },
+    {
+      "id": "b8fd",
+      "name": "Chakali Aruna",
+      "email": "drlngaruna@gmail.com",
+      "eventId": "1"
+    },
+    {
+      "id": "22b5",
+      "name": "tanmai",
+      "email": "tanami@gmail.com",
+      "eventId": "2611"
+    }
+  ]
+}

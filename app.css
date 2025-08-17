@@ -1,0 +1,2 @@
+.topnav { display:flex; gap:16px; padding:12px; border-bottom:1px solid #ddd; }
+.active { font-weight: 600; }
